@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi. My name is Isaac! #
+
+### I am a Computer Science student and enthusiast currently studying at the University of Minnesota Twin Cities.
+
 
 <!--
 **IsaacMBerlin/IsaacMBerlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
