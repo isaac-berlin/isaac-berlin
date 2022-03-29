@@ -6,4 +6,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-berlin)](https://github.com/anuraghazra/github-readme-stats)
 
-[![isaac-berlin wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=isaac-berlin)](https://github.com/anuraghazra/github-readme-stats)
+[![isaac-berlin wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IsaacBerlin)](https://github.com/anuraghazra/github-readme-stats)
